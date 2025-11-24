@@ -59,5 +59,5 @@ track performance over time, and accurately plan future strategy.
 * https://www.oracle.com/in/database/what-is-a-data-warehouse/
 ### 3. What is ETL?
 * https://aws.amazon.com/what-is/etl/
-## Star Schema
+## 4. Star Schema
 * https://www.geeksforgeeks.org/data-analysis/designing-the-star-schema-in-data-warehousing/
