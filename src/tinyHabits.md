@@ -43,6 +43,6 @@ line of code.
 
 ### 9. Pick one habit that you would like to eliminate or do le ss of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 * Invisible: I'll delete the apps and access social media only via the browser, logging out every time.
-  * Hard: I'll use an app blocker to block social media during work hours, making it too disruptive to check.
+* Hard: I'll use an app blocker to block social media during work hours, making it too disruptive to check.
 * Unsatisfying: I'll set a strict daily timer (eg 15 minutes). Once time is up, the app is locked, making any further 
 checking immediately unsatisfying.
